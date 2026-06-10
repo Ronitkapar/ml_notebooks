@@ -1,0 +1,1 @@
+hour,minute,time_slot,is_morning_peak,is_night,RoadType_enc,NumberofLanes,LargeVehicles_enc,Landmarks_enc,Temperature,Weather_enc,day,geo_mean_enc,geo_hour_mean_enc,geo_slot_enc

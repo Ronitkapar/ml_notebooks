@@ -1,0 +1,25 @@
+# Ignore local Python virtual environments everywhere in the repo
+venv/
+.env/
+.venv/
+
+# Ignore environment folders used in this project
+/ann/ann.env/
+
+# Ignore local data files not committed to source control
+/ann/Churn_Modelling.csv
+
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Common editor / OS files
+.vscode/
+.idea/
+.DS_Store
